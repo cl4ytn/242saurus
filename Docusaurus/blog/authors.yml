@@ -28,7 +28,7 @@ cl4ytn:
         url: https://github.com/cl4ytn
         image_url: https://github.com/cl4ytn.png
         socials:
-                github: cl4ytn
+          github: cl4ytn
 
 davinawuy:
 	name: Alano Davin Mandagi Awuy
@@ -36,4 +36,4 @@ davinawuy:
 	url: https://github.com/davinawuy
 	image_url: https://github.com/davinawuy.png
 	socials:
-		github: davinawuy
+	  github: davinawuy
