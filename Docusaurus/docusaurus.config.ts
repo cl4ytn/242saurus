@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://cl4ytn.github.io',
   baseUrl: '/242saurus/',
   organizationName: 'cl4ytn', // Usually your GitHub org/user name.
-  projectName: ' 242saurus', // Usually your repo name.
+  projectName: '242saurus', // Usually your repo name.
   trailingSlash: true,
 
   onBrokenLinks: 'throw',
